@@ -1,5 +1,5 @@
 # LearnPy
-Simple system to learn python
+A simple system to learn python
 
 # How can I get it up and running?
 First install python and then just follow these simple steps:
