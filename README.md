@@ -19,6 +19,9 @@ First install python and then just follow these simple steps:
 
 4. Make popcorn and have fun listing and registering awesome new courses
 
+## Video with the steps above (except step 4)
+https://user-images.githubusercontent.com/50798315/138596999-fc5dde8e-c546-42bf-a8ea-a1cfff4c6742.mp4
+
 # Can I test only the backend?
 Sure! The available routes on backend are:
 
@@ -37,3 +40,8 @@ To include a new awesome course
     "imgGrayUri": "image_course_completed_uri.jpeg"
 }
 ```
+
+## Video testing using [Postman](https://www.postman.com/)
+https://user-images.githubusercontent.com/50798315/138597262-ed8066ce-f665-4953-a833-78304e9d9d00.mp4
+
+
