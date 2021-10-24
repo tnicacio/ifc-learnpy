@@ -5,18 +5,14 @@ https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virt
 
 python -m venv env
 
-para ativar:
+to activate:
 
 env\scripts\activate
 
-para desativar:
+to deactivate:
 
 env\scripts\deactivate
 
 # Install dependencies:
 
 python -m pip install -r requirements.txt
-
-# Stress Test
-
-for i in {1..10}; do ./vai.sh; done
