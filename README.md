@@ -9,7 +9,7 @@ First install python and then just follow these simple steps:
 
 2. Initialize the backend
 - Open the backend folder
-- Optionally create a python virtual environment ```python -m venv env```
+- Optionally create a python virtual environment ```python -m venv env``` and activate it ```env\scripts\activate```
 - Install the project dependencies ```python -m pip install -r requirements.txt```
 - run backend.py
 
@@ -20,7 +20,7 @@ First install python and then just follow these simple steps:
 4. Make popcorn and have fun listing and registering awesome new courses
 
 ## Video with the steps above (except step 4)
-https://user-images.githubusercontent.com/50798315/138596999-fc5dde8e-c546-42bf-a8ea-a1cfff4c6742.mp4
+https://user-images.githubusercontent.com/50798315/138598192-c1a2a627-f610-4aba-a9d4-c531837a9ff4.mp4
 
 # Can I test only the backend?
 Sure! The backend available routes are:
