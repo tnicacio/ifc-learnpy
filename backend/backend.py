@@ -1,11 +1,6 @@
 from config import *
 from modelo import Course
 
-@app.route("/")
-def inicio():
-    return 'Plataforma de ensino LearnPy. '+\
-        '<a href="/courses">Listar Cursos</a>'
-
 @app.route("/courses/<course_id>")
 def find_by_id(course_id):
     id = course_id
