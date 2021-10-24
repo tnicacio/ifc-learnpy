@@ -19,7 +19,7 @@ First install python and then just follow these simple steps:
 
 4. Make popcorn and have fun listing and registering awesome new courses
 
-# Can I test only the backend with Postman?
+# Can I test only the backend?
 Sure! The available routes on backend are:
 
 ## [GET] /courses
