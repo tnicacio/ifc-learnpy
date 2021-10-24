@@ -1,4 +1,4 @@
-# LearnPy
+# :pie: LearnPy
 A simple system to learn python
 
 # How can I get it up and running?
@@ -23,7 +23,7 @@ First install python and then just follow these simple steps:
 https://user-images.githubusercontent.com/50798315/138596999-fc5dde8e-c546-42bf-a8ea-a1cfff4c6742.mp4
 
 # Can I test only the backend?
-Sure! The available routes on backend are:
+Sure! The backend available routes are:
 
 ## [GET] /courses
 To see a list with all the courses
