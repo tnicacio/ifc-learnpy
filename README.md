@@ -15,7 +15,7 @@ First install python and then just follow these simple steps:
 
 3. Initialize the frontend
 - Open the frontend folder
-- run courses.html with [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- open courses.html or run it with [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 4. Make popcorn and have fun listing and registering awesome new courses
 
